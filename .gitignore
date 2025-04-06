@@ -14,7 +14,6 @@ __pycache__
 .#*
 
 # vscode settings
-.vscode
 
 # git-ps hooks
 .git-ps
@@ -26,3 +25,5 @@ result
 
 .DS_Store
 nix/profiles/
+config.bat
+node_modules
